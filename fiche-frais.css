@@ -1,0 +1,104 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	background-image:url(fondGSB.jpg);
+	color:#005177;
+	}
+select{
+	cursor:pointer;
+	color: #005177;
+	border-radius:5px;
+}
+select:hover{
+	cursor:pointer;
+	color:#005177;
+	border-radius:5px;
+	background: #dddddd;
+}
+select:focus{
+	cursor:pointer;
+	color:#005177;
+	border-radius:5px;
+	background: #ffff9f;
+}
+input[type="text"]{
+	color:#005177;
+	border-radius:5px;
+	background:white;
+}
+input[type="text"]:hover{
+	color:#005177;
+	border-radius:5px;
+	background: #dddddd;
+}
+input[type="text"]:focus{
+	color:#005177;
+	border-radius:5px;
+	background: #ffff9f;
+}
+input[type="submit"]{
+	cursor:pointer;
+	color:#005177;
+	border-radius:5px;
+	background:white;
+}
+input[type="submit"]:hover{
+	cursor:pointer;
+	color:#005177;
+	border-radius:5px;
+	background: #dddddd;
+}
+input[type="submit"]:active{
+	cursor:pointer;
+	color:#005177;
+	border-radius:5px;
+	background: #ffff9f;
+}
+#fiche{
+	margin-top:16px;
+	 margin-left: auto;
+   margin-right: auto;
+   text-align:center;
+	background:white;
+	width:800px;
+
+	}
+#fiche2{
+	margin-top:9px;
+	 margin-left: auto;
+   margin-right: auto;
+   text-align:center;
+	background:white;
+	width:800px;
+	border-radius:5px;
+	}
+#fiche3{
+	margin-top:-9px;
+	 margin-left: auto;
+   margin-right: auto;
+   text-align:center;
+	background:white;
+	width:800px;
+
+	}
+#titre{
+margin-top:20px;
+	 margin-left: auto;
+   margin-right: auto;
+   text-align:center;
+	background:white;
+	width:800px;
+	font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	color:blue;
+box-shadow:2px 2px 10px gray inset;
+	-moz-border-radius:10px 0;
+-webkit-border-radius:10px 0;
+border-radius:10px 0;
+}
+
+
+#merreur{
+	color:#FF0000;
+	
+	}

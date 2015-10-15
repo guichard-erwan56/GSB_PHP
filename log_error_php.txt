@@ -1,0 +1,12 @@
+[21-Mar-2015 19:32:48 Europe/Paris] PHP Notice:  Use of undefined constant e_all - assumed 'e_all' in C:\wamp\www\ppe\consulter-modifier-compt.php on line 10
+[21-Mar-2015 19:32:48 Europe/Paris] PHP Stack trace:
+[21-Mar-2015 19:32:48 Europe/Paris] PHP   1. {main}() C:\wamp\www\ppe\fiche-frais-compt.php:0
+[21-Mar-2015 19:32:48 Europe/Paris] PHP   2. include() C:\wamp\www\ppe\fiche-frais-compt.php:56
+[21-Mar-2015 19:32:57 Europe/Paris] PHP Notice:  Use of undefined constant e_all - assumed 'e_all' in C:\wamp\www\ppe\consulter-modifier-compt.php on line 10
+[21-Mar-2015 19:32:57 Europe/Paris] PHP Stack trace:
+[21-Mar-2015 19:32:57 Europe/Paris] PHP   1. {main}() C:\wamp\www\ppe\fiche-frais-compt.php:0
+[21-Mar-2015 19:32:57 Europe/Paris] PHP   2. include() C:\wamp\www\ppe\fiche-frais-compt.php:56
+[21-Mar-2015 19:32:58 Europe/Paris] PHP Notice:  Use of undefined constant e_all - assumed 'e_all' in C:\wamp\www\ppe\consulter-modifier-compt.php on line 10
+[21-Mar-2015 19:32:58 Europe/Paris] PHP Stack trace:
+[21-Mar-2015 19:32:58 Europe/Paris] PHP   1. {main}() C:\wamp\www\ppe\fiche-frais-compt.php:0
+[21-Mar-2015 19:32:58 Europe/Paris] PHP   2. include() C:\wamp\www\ppe\fiche-frais-compt.php:56
